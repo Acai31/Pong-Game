@@ -1,2 +1,2 @@
-# Pong-Game
- My Remix of the Classic Pong Game
+# Pong
+My Remix on the classic Pong game from freeCodeCamp's tutorials. 
