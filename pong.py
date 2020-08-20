@@ -37,8 +37,8 @@ ball.shape("circle")
 ball.color("white")
 ball.penup()
 ball.goto(0, 0)
-ball.dx = 0.5
-ball.dy = 0.5
+ball.dx = 0.1
+ball.dy = 0.1
 
 # Pen
 pen = turtle.Turtle()
@@ -67,7 +67,7 @@ credit.color("tan")
 credit.penup()
 credit.hideturtle()
 credit.goto(0, -275)
-credit.write("Base game from freeCodeCamp's game tutorial, remixed by Alex Cheung", align = "center", font = ("Courier", 12, "normal"))
+credit.write("Based on freeCodeCamp's Pong game tutorial, remixed by Alex Cheung", align = "center", font = ("Courier", 12, "normal"))
 
 # Function
 def paddleAUp():
