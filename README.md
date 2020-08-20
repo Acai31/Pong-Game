@@ -5,6 +5,6 @@ Some features added, but not limited to:
 - having an end game screen
 - automatically closing the game window when game is done
 
-Movement Controls: 
-    Player A: W, S 
-    Player B: Up Key, Down Key 
+Movement Controls:   
+    Player A: W, S   
+    Player B: Up Key, Down Key   
